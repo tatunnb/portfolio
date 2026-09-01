@@ -32,9 +32,24 @@ h3 { margin: 1.25rem 0 0.25rem; font-size: 1.1rem; }
 </div>
 </header>
 <section>
+<h2>Education</h2>
+<p>
+<strong>Miami University, Farmer School of Business</strong>, Bachelor of Science, Major: Business Analytics <span class="meta">Expected Spring 2027</span>
+</p>
+</section>
+<section>
 <h2>About</h2>
 <p>I am a Business Analytics student at Miami University, expected to graduate in Spring 2027. I use R, SQL, Excel, and data analysis methods to examine business questions and communicate findings clearly. My experience in peer leadership, community outreach, and client-focused teamwork has strengthened how I work with people and present ideas.</p>
 <p class="meta"><a href="mailto:buhirutk@miamioh.edu">buhirutk@miamioh.edu</a> &middot; <a href="https://github.com/tatunnb">GitHub</a> &middot; <a href="https://www.linkedin.com/in/tatum-buhiru-59aa242a2/">LinkedIn</a></p>
+</section>
+<section>
+<h2>Coursework</h2>
+<ul>
+<li>
+<strong>ISA 391 - Applied Regression Analysis in Business</strong>: This course supports my ability to assess model validity and adequacy in R, using model selection, multicollinearity checks, and residual analysis.</li>
+<li>
+<strong>ISA 345 - Database Systems and Data Warehousing</strong>: This course builds my SQL and relational database knowledge for reporting, analytics, and business process insights.</li>
+</ul>
 </section>
 <section>
 <h2>Skills</h2>
@@ -69,18 +84,7 @@ h3 { margin: 1.25rem 0 0.25rem; font-size: 1.1rem; }
 <li>Community Outreach</li>
 </ul>
 </section>
-<section>
-<h2>Projects</h2>
-</section>
-<section>
-<h2>Coursework</h2>
-<ul>
-<li>
-<strong>ISA 391 - Applied Regression Analysis in Business</strong>: This course supports my ability to assess model validity and adequacy in R, using model selection, multicollinearity checks, and residual analysis.</li>
-<li>
-<strong>ISA 345 - Database Systems and Data Warehousing</strong>: This course builds my SQL and relational database knowledge for reporting, analytics, and business process insights.</li>
-</ul>
-</section>
+
 <section>
 <h2>Experience</h2>
 <article>
@@ -102,12 +106,8 @@ h3 { margin: 1.25rem 0 0.25rem; font-size: 1.1rem; }
 </ul>
 </article>
 </section>
-<section>
-<h2>Education</h2>
-<p>
-<strong>Miami University, Farmer School of Business</strong>, Bachelor of Science, Major: Business Analytics <span class="meta">Expected Spring 2027</span>
-</p>
-</section>
+
+
 </main>
 </body>
 </html>
