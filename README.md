@@ -1,6 +1,6 @@
 # Portfolio
 
-Personal portfolio website: https://YOUR-USERNAME.github.io/portfolio/
+Personal portfolio website: https://tatunnb.github.io/portfolio/
 
 ## What I changed
 
